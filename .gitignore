@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Logs / tmp
+*.log
+*.tmp
+*.temp
+
+# Large local data that should NOT go to GitHub
+data/corpus_uklegislation.json
+
+# Misc
+.DS_Store
