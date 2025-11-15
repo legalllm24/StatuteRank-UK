@@ -1,4 +1,4 @@
-his repository does NOT include the dataset files directly (because the corpus is ~471MB).
+This repository does NOT include the dataset files directly (because the corpus is ~471MB).
 Instead, download links are provided here.
 
 1. UK Legislation Corpus (Deduplicated)
