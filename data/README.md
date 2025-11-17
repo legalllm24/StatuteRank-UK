@@ -1,7 +1,7 @@
 This repository does NOT include the dataset files directly (because the corpus is ~471MB).
 Instead, download links are provided here.
 
-1. UK Legislation Corpus (Deduplicated)
+1. UK Legislation Corpus
 
 Format: JSON (~471MB)
 
